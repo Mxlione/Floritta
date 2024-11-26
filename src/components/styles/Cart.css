@@ -1,0 +1,121 @@
+
+.open{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #fff;
+    color: #300c96;
+    margin: 0;
+    height: 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 70px;
+    width: 100px;
+    margin-top: 20px;
+    
+}
+
+.close{
+    background-color: #fff;
+    height: 38px;
+    border-radius: 5px;
+    cursor: pointer;
+    padding-left: 10px;
+    width: 150px;
+    padding-right: 10px;
+}
+
+.set{
+    background-color: #fff;
+    height: 20px;
+    border-radius: 5px;
+    
+    cursor: pointer;
+    padding-left: 10px;
+    width: 50px;
+    padding-right: 10px;
+    position: relative;
+    top: 20px;
+}
+
+.delete{
+  
+    background-color: #fff;
+    height: 20px;
+    color: #d11313;
+    border-radius: 5px;
+    cursor: pointer;
+    padding-left: 10px;
+    width: 50px;
+    padding-right: 10px;
+    position: relative;
+    top: 20px;
+
+}
+
+.btn{
+    display: flex;
+}
+
+.lmj-cart {
+    color: white;
+    background-color: #31b572;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 800px;
+    margin: 20px auto;
+}
+
+.img{
+    border-radius: 5px;
+    margin-bottom: 10px;
+    height: 50px !important;
+    width: 50px !important;
+}
+
+.lmj-cart-add-button {
+    margin-left: 32px;
+    cursor: pointer;
+}
+
+.lmj-cart-toggle-button {
+    background: none;
+    outline: none;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    align-self: self-start;
+    padding: 0;
+    color: white;
+}
+
+.lmj-cart-closed {
+    padding: 32px;
+    width: 200px;
+}
+
+.lmj-cart-closed>button {
+    color: black;
+}
+
+.flex{
+    display: flex;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.payer{
+    height: 38px;
+    border-radius: 5px;
+    cursor: pointer;
+    padding-left: 10px;
+    width: 150px;
+    padding-right: 10px;
+    color: #008CBA;
+    background-color: #fff;
+}
