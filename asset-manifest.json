@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Floritta/static/css/main.2e3e05b8.css",
+    "main.js": "/Floritta/static/js/main.8d10685c.js",
+    "static/js/453.1b0fa685.chunk.js": "/Floritta/static/js/453.1b0fa685.chunk.js",
+    "static/media/bac1.jpg": "/Floritta/static/media/bac1.05e5558b6e0d66b66bd0.jpg",
+    "static/media/bleuet.jpeg": "/Floritta/static/media/bleuet.15dc56901c69f81c04dc.jpeg",
+    "static/media/tournesol.jpeg": "/Floritta/static/media/tournesol.b49f56cfd7d9347101e4.jpeg",
+    "static/media/dahlia.jpeg": "/Floritta/static/media/dahlia.4d3d44581a60345cfa3d.jpeg",
+    "static/media/narcisse.jpeg": "/Floritta/static/media/narcisse.a6d5958d096e2618236d.jpeg",
+    "static/media/azalee.jpeg": "/Floritta/static/media/azalee.3824e902efee688e8840.jpeg",
+    "static/media/camelia.jpeg": "/Floritta/static/media/camelia.f1b80ed1667017ce89db.jpeg",
+    "static/media/lavande.jpeg": "/Floritta/static/media/lavande.210241af170cbe9f8818.jpeg",
+    "static/media/hibiscus.jpeg": "/Floritta/static/media/hibiscus.99cdaeca087a3449a236.jpeg",
+    "static/media/sun.svg": "/Floritta/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
+    "static/media/water.svg": "/Floritta/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
+    "index.html": "/Floritta/index.html",
+    "main.2e3e05b8.css.map": "/Floritta/static/css/main.2e3e05b8.css.map",
+    "main.8d10685c.js.map": "/Floritta/static/js/main.8d10685c.js.map",
+    "453.1b0fa685.chunk.js.map": "/Floritta/static/js/453.1b0fa685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e3e05b8.css",
+    "static/js/main.8d10685c.js"
+  ]
+}
